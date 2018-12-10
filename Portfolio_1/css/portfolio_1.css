@@ -1,0 +1,19 @@
+#intro {
+    background-color: #fff;
+    padding: 140px;
+}
+
+#programming_skills,
+#other_skills {
+    background-color: rgb(170, 170, 170);
+    padding: 50px;
+}
+
+.logo {
+    padding: 75px;
+}
+
+#projects {
+    background-color: #fff;
+    padding: 50px;
+}
